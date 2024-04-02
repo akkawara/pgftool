@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dump_pgf", "dump_pgf\dump_pgf.vcxproj", "{791A6F2B-F784-49F2-BFCD-2DFBD05E329F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ttf_pgf", "ttf_pgf\ttf_pgf.vcxproj", "{B1015ED7-4613-4B82-AE99-9926AF44884D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mix_pgf", "mix_pgf\mix_pgf.vcxproj", "{040E5525-212B-49CE-BBB5-E3624FC47E0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{791A6F2B-F784-49F2-BFCD-2DFBD05E329F}.Debug|x86.ActiveCfg = Debug|Win32
+		{791A6F2B-F784-49F2-BFCD-2DFBD05E329F}.Debug|x86.Build.0 = Debug|Win32
+		{791A6F2B-F784-49F2-BFCD-2DFBD05E329F}.Release|x86.ActiveCfg = Release|Win32
+		{791A6F2B-F784-49F2-BFCD-2DFBD05E329F}.Release|x86.Build.0 = Release|Win32
+		{B1015ED7-4613-4B82-AE99-9926AF44884D}.Debug|x86.ActiveCfg = Debug|Win32
+		{B1015ED7-4613-4B82-AE99-9926AF44884D}.Debug|x86.Build.0 = Debug|Win32
+		{B1015ED7-4613-4B82-AE99-9926AF44884D}.Release|x86.ActiveCfg = Release|Win32
+		{B1015ED7-4613-4B82-AE99-9926AF44884D}.Release|x86.Build.0 = Release|Win32
+		{040E5525-212B-49CE-BBB5-E3624FC47E0C}.Debug|x86.ActiveCfg = Debug|Win32
+		{040E5525-212B-49CE-BBB5-E3624FC47E0C}.Debug|x86.Build.0 = Debug|Win32
+		{040E5525-212B-49CE-BBB5-E3624FC47E0C}.Release|x86.ActiveCfg = Release|Win32
+		{040E5525-212B-49CE-BBB5-E3624FC47E0C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09225EA-A172-4A90-A51A-FC5C67569F08}
+	EndGlobalSection
+EndGlobal
